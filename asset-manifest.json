@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/m3h-web-dev-barber-shop/static/css/main.58b24c37.css",
+    "main.js": "/m3h-web-dev-barber-shop/static/js/main.ce5e9a88.js",
+    "static/js/453.69a3e7c6.chunk.js": "/m3h-web-dev-barber-shop/static/js/453.69a3e7c6.chunk.js",
+    "static/media/interior.webp": "/m3h-web-dev-barber-shop/static/media/interior.c70edfbf97240e2d7258.webp",
+    "static/media/gallery1.webp": "/m3h-web-dev-barber-shop/static/media/gallery1.0042723c4f166fbd5868.webp",
+    "static/media/team3.jpg": "/m3h-web-dev-barber-shop/static/media/team3.34f08aade7b4f45ca27e.jpg",
+    "static/media/barber2.jpg": "/m3h-web-dev-barber-shop/static/media/barber2.6da71574860d13d6c5be.jpg",
+    "static/media/logo.png": "/m3h-web-dev-barber-shop/static/media/logo.aa1bc8e9a92379abd781.png",
+    "static/media/team2.jpg": "/m3h-web-dev-barber-shop/static/media/team2.f36c7b00decd044a356c.jpg",
+    "static/media/instagram (1).png": "/m3h-web-dev-barber-shop/static/media/instagram (1).28944b9a16197e849f88.png",
+    "static/media/team1.jpg": "/m3h-web-dev-barber-shop/static/media/team1.417d4a4b847ab332a717.jpg",
+    "static/media/twitter (1).png": "/m3h-web-dev-barber-shop/static/media/twitter (1).802534bf2678c3afb41d.png",
+    "static/media/facebook (1).png": "/m3h-web-dev-barber-shop/static/media/facebook (1).795fce8e464693d7346d.png",
+    "static/media/tiktok.png": "/m3h-web-dev-barber-shop/static/media/tiktok.4a4fcbad181ec38e9abc.png",
+    "index.html": "/m3h-web-dev-barber-shop/index.html",
+    "main.58b24c37.css.map": "/m3h-web-dev-barber-shop/static/css/main.58b24c37.css.map",
+    "main.ce5e9a88.js.map": "/m3h-web-dev-barber-shop/static/js/main.ce5e9a88.js.map",
+    "453.69a3e7c6.chunk.js.map": "/m3h-web-dev-barber-shop/static/js/453.69a3e7c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58b24c37.css",
+    "static/js/main.ce5e9a88.js"
+  ]
+}
