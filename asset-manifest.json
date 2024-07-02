@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/m3h-web-dev-barber-shop/static/css/main.58b24c37.css",
+    "main.css": "/m3h-web-dev-barber-shop/static/css/main.f3b40cde.css",
     "main.js": "/m3h-web-dev-barber-shop/static/js/main.ce5e9a88.js",
     "static/js/453.69a3e7c6.chunk.js": "/m3h-web-dev-barber-shop/static/js/453.69a3e7c6.chunk.js",
     "static/media/interior.webp": "/m3h-web-dev-barber-shop/static/media/interior.c70edfbf97240e2d7258.webp",
@@ -15,12 +15,12 @@
     "static/media/facebook (1).png": "/m3h-web-dev-barber-shop/static/media/facebook (1).795fce8e464693d7346d.png",
     "static/media/tiktok.png": "/m3h-web-dev-barber-shop/static/media/tiktok.4a4fcbad181ec38e9abc.png",
     "index.html": "/m3h-web-dev-barber-shop/index.html",
-    "main.58b24c37.css.map": "/m3h-web-dev-barber-shop/static/css/main.58b24c37.css.map",
+    "main.f3b40cde.css.map": "/m3h-web-dev-barber-shop/static/css/main.f3b40cde.css.map",
     "main.ce5e9a88.js.map": "/m3h-web-dev-barber-shop/static/js/main.ce5e9a88.js.map",
     "453.69a3e7c6.chunk.js.map": "/m3h-web-dev-barber-shop/static/js/453.69a3e7c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58b24c37.css",
+    "static/css/main.f3b40cde.css",
     "static/js/main.ce5e9a88.js"
   ]
 }
